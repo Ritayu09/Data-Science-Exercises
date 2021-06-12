@@ -1,1 +1,1 @@
-# An open source Data Science repository to learn and apply learnings on problems.
+### An open source Data Science repository to learn and implement machine learning techniques on problems.
